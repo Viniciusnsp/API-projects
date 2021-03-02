@@ -12,7 +12,7 @@ const projects = [
   {
     id: 2,
     title: "Traveler",
-    tasks: ["Pág login", "divisao das tarefas"]
+    tasks: ["Pág login", "divisao das tarefas", "outra tarefa"]
   }
 ]
 
